@@ -1,6 +1,6 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel-symfony/bootstrap",
+    "name": "raza9798/bootstrap",
     "type": "project",
     "description": "The skeleton application for the Laravel framework.",
     "keywords": [
