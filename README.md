@@ -14,7 +14,20 @@ A starter template using **Laravel 12** with **Bootstrap 5.3.5**. Perfect for ra
 You can create a new Laravel project using this template with the following command:
 
 ```bash
-laravel new your-project-name --use=raza9798/bootstrap
+laravel new --using=raza9798/bootstrap
+```
+
+```bash
+
+ What is the name of your project?:
+ > YOUR APP NAME
+
+ Which testing framework do you prefer? [Pest]:
+  [0] Pest
+  [1] PHPUnit
+ > 1
+
+
 ```
 
 ## License
